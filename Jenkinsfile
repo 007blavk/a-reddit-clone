@@ -86,10 +86,5 @@ opipeline {
             }
          }
      }
-     post {
-        always {
-           sh "echo all done!!"
-        }
-     }
     
 }
